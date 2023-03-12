@@ -1,0 +1,15 @@
+{
+    "name": "zozo/di_bootcamp_week9_day1_daily-challenge",
+    "autoload": {
+        "psr-4": {
+            "Zozo\\DiBootcampWeek9Day1DailyChallenge\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "alonitasarah",
+            "email": "zozoalonita@gmail.com"
+        }
+    ],
+    "require": {}
+}
